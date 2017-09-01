@@ -26,10 +26,7 @@ public class Recr {
 		return d.findElement(By.id(id));
 	}
 
-	protected static WebElement css(String cssSelector) {
-
-		return d.findElement(By.cssSelector(cssSelector));
-	}
+	
 
 	public static void main(String[] args) throws InterruptedException,
 			IOException {
