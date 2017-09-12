@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import org.openqa.selenium.support.ui.Select;
 // edited by lakshmi.
-public class Recr {
+public class Recruiter {
 	static WebDriver d;
 
 	protected static WebElement xp(String xpath) {
